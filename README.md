@@ -8,31 +8,31 @@ This app has been created by Lautaro Cuevas and is meant to be a tool to help jo
 
 - Summary section.
 
-  -[x] UI
+  - [x] UI
 
-  -[x] Functionality
+  - [x] Functionality
 
 - Contacts section
 
-  -[ ] UI
+  - [ ] UI
 
 - Reminders/Alerts Section
 
-  -[ ] UI
+  - [ ] UI
 
 - Data Storage
 
-  -[x] Local JSON (Testing Phase)
+  - [x] Local JSON (Testing Phase)
 
-  -[ ] Database
+  - [ ] Database
 
 - Resources Section
 
-  -[ ] UI
+  - [ ] UI
 
-  -[ ] Templates Section
+  - [ ] Templates Section
 
-  -[ ] Video Section
+  - [ ] Video Section
 
 ## local/jobs.json (Testing Phase)
 
